@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 14px 6%;
+    border-bottom: 1px solid #e0e0e0;
+    background: white;
+}
+
+.logo-text {
+    font-size: 26px;
+    font-weight: 700;
+    color: #FF6B35;
+    letter-spacing: -0.5px;
+    font-family: 'Segoe UI', sans-serif;
+}
